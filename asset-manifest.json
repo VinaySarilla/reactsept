@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactsept/static/css/main.b100e6da.chunk.css",
+    "main.js": "/reactsept/static/js/main.a12699b0.chunk.js",
+    "main.js.map": "/reactsept/static/js/main.a12699b0.chunk.js.map",
+    "runtime-main.js": "/reactsept/static/js/runtime-main.de66b530.js",
+    "runtime-main.js.map": "/reactsept/static/js/runtime-main.de66b530.js.map",
+    "static/js/2.5af0b7a7.chunk.js": "/reactsept/static/js/2.5af0b7a7.chunk.js",
+    "static/js/2.5af0b7a7.chunk.js.map": "/reactsept/static/js/2.5af0b7a7.chunk.js.map",
+    "index.html": "/reactsept/index.html",
+    "precache-manifest.ce01feeb0d7bf847316bfe57c3af4b19.js": "/reactsept/precache-manifest.ce01feeb0d7bf847316bfe57c3af4b19.js",
+    "service-worker.js": "/reactsept/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/reactsept/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/reactsept/static/media/logo.25bf045c.svg"
+  }
+}
