@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7da599d6bd2d8809040f171d57ba25c",
+    "revision": "769d09ff36aa7b2e8e20c6ab569fa0c4",
     "url": "/reactsept/index.html"
   },
   {
-    "revision": "0e725f1f561852bf0af1",
-    "url": "/reactsept/static/css/main.96d1d50d.chunk.css"
+    "revision": "9d80da19eacd93ea9ee8",
+    "url": "/reactsept/static/css/main.51b5b7c0.chunk.css"
   },
   {
-    "revision": "8a3070d39902f0eac889",
-    "url": "/reactsept/static/js/2.91f674c1.chunk.js"
+    "revision": "2ee1de4c2ace4ffbb3cc",
+    "url": "/reactsept/static/js/2.94b534aa.chunk.js"
   },
   {
-    "revision": "0e725f1f561852bf0af1",
-    "url": "/reactsept/static/js/main.f575d489.chunk.js"
+    "revision": "9d80da19eacd93ea9ee8",
+    "url": "/reactsept/static/js/main.49f08d5e.chunk.js"
   },
   {
     "revision": "b24f48d4a43ee1fb7fa8",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d5049f2a7aee699c8536b98cd5d61868",
     "url": "/reactsept/static/media/Basket1.d5049f2a.jpg"
+  },
+  {
+    "revision": "6546ff01af027e2643da8f91ad1c7b99",
+    "url": "/reactsept/static/media/cricket.6546ff01.svg"
   },
   {
     "revision": "ff7b70831d81425f5e13681e6c983327",
