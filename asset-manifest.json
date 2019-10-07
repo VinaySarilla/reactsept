@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/reactsept/static/css/main.51b5b7c0.chunk.css",
-    "main.js": "/reactsept/static/js/main.49f08d5e.chunk.js",
-    "main.js.map": "/reactsept/static/js/main.49f08d5e.chunk.js.map",
+    "main.css": "/reactsept/static/css/main.c0a5ab3d.chunk.css",
+    "main.js": "/reactsept/static/js/main.d25d1c2a.chunk.js",
+    "main.js.map": "/reactsept/static/js/main.d25d1c2a.chunk.js.map",
     "runtime-main.js": "/reactsept/static/js/runtime-main.de66b530.js",
     "runtime-main.js.map": "/reactsept/static/js/runtime-main.de66b530.js.map",
-    "static/js/2.94b534aa.chunk.js": "/reactsept/static/js/2.94b534aa.chunk.js",
-    "static/js/2.94b534aa.chunk.js.map": "/reactsept/static/js/2.94b534aa.chunk.js.map",
+    "static/js/2.de99580d.chunk.js": "/reactsept/static/js/2.de99580d.chunk.js",
+    "static/js/2.de99580d.chunk.js.map": "/reactsept/static/js/2.de99580d.chunk.js.map",
     "index.html": "/reactsept/index.html",
-    "precache-manifest.b50b092d7f37fc2ddf3f0857a9961937.js": "/reactsept/precache-manifest.b50b092d7f37fc2ddf3f0857a9961937.js",
+    "precache-manifest.ba8bfb38b8e4114fb90b98e0d3c93275.js": "/reactsept/precache-manifest.ba8bfb38b8e4114fb90b98e0d3c93275.js",
     "service-worker.js": "/reactsept/service-worker.js",
-    "static/css/main.51b5b7c0.chunk.css.map": "/reactsept/static/css/main.51b5b7c0.chunk.css.map",
+    "static/css/main.c0a5ab3d.chunk.css.map": "/reactsept/static/css/main.c0a5ab3d.chunk.css.map",
     "static/media/Basket1.jpg": "/reactsept/static/media/Basket1.d5049f2a.jpg",
+    "static/media/Enthuwall.svg": "/reactsept/static/media/Enthuwall.3bc9aa32.svg",
     "static/media/cricket.svg": "/reactsept/static/media/cricket.6546ff01.svg",
-    "static/media/img1.jpg": "/reactsept/static/media/img1.ff7b7083.jpg"
+    "static/media/enthu2019.jpg": "/reactsept/static/media/enthu2019.7f1a4b69.jpg",
+    "static/media/events.svg": "/reactsept/static/media/events.82a2740c.svg",
+    "static/media/img1.jpg": "/reactsept/static/media/img1.ff7b7083.jpg",
+    "static/media/medal.svg": "/reactsept/static/media/medal.7718e6ef.svg",
+    "static/media/rank.svg": "/reactsept/static/media/rank.aeae9a10.svg",
+    "static/media/team.svg": "/reactsept/static/media/team.ce737683.svg"
   }
 }
